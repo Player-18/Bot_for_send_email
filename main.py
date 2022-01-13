@@ -8,7 +8,7 @@ import time
 import re
 
 
-TOKEN = ''  #  Тут прописываем токен от нашего бота
+TOKEN = ''  #  Тут прописываем токен от нашего бота/
 
 bot = telebot.TeleBot(TOKEN)
 
